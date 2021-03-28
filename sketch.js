@@ -6,7 +6,7 @@ var dogImage, happyDogImage;
 function preload()
 {
 	dogImage = loadImage("Images/Dog.png")
-  happyDogImage = loadImage("Images/happyDog.png")
+  happyDogImage = loadImage("Images/happydog.png")
 }
 
 function setup() {
